@@ -1,0 +1,2 @@
+# Python_Project-Automated-Rental-Management-System-for-Premier-Office-Suites
+The project was to design and implement a programming solution to automate the generation of 12 monthly rental invoices for each of the 60 office units (4 units per floor across 15 floors). Each invoice should include the following details: Floor number (ranging from 1 to 15)/ Unit number (ranging from 1 to 4)/ Month (ranging from 1 to 12)/Rent due
